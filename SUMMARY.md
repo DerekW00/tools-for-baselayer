@@ -2,9 +2,11 @@
 
 * [Tools I Use at Work](README.md)
 
-## multi-agent workflow
+## multi-agent
 
-* [LangGraph for Multi-agent Workflow](multi-agent-workflow/langgraph-for-multi-agent-workflow/README.md)
-  * [Core Concepts](multi-agent-workflow/langgraph-for-multi-agent-workflow/core-concepts/README.md)
-    * [Page 3](multi-agent-workflow/langgraph-for-multi-agent-workflow/core-concepts/page-3.md)
-* [Page 2](multi-agent-workflow/page-2.md)
+* [Multi-agent Tools](multi-agent/multi-agent-tools/README.md)
+  * [LangGraph for Multi-agent Workflow](multi-agent/multi-agent-tools/langgraph-for-multi-agent-workflow/README.md)
+    * [Core Concepts](multi-agent/multi-agent-tools/langgraph-for-multi-agent-workflow/core-concepts/README.md)
+      * [Page 3](multi-agent/multi-agent-tools/langgraph-for-multi-agent-workflow/core-concepts/page-3.md)
+  * [DSPy](multi-agent/multi-agent-tools/dspy.md)
+* [Multi-agent Concepts](multi-agent/multi-agent-concepts.md)
