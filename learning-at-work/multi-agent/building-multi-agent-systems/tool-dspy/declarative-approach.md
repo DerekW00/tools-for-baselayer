@@ -146,5 +146,3 @@ This makes your LLM pipelines more:
 * **Portable** (swap models or datasets without rewriting prompts).
 
 ### By shifting from _imperative prompt engineering_ to _declarative specification_, you unlock automation, systematic optimization, and scalability in LLM programming.
-
-Would you like me to also create an **imperative vs declarative side-by-side example** (raw prompt string vs. Signature+Module) to make this page even clearer for GitBook readers?
