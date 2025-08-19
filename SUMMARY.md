@@ -8,3 +8,8 @@
     * [Multi-agent](multi-agent/introduction-to-agents-and-multi-agent-systems/multi-agent.md)
     * [MAS Systems](multi-agent/introduction-to-agents-and-multi-agent-systems/mas-systems.md)
     * [Summary](multi-agent/introduction-to-agents-and-multi-agent-systems/summary.md)
+  * [Building Multi-Agent Systems](multi-agent/building-multi-agent-systems/README.md)
+    * [Tool: DSPy](multi-agent/building-multi-agent-systems/tool-dspy/README.md)
+      * [Initial Questions](multi-agent/building-multi-agent-systems/tool-dspy/initial-questions.md)
+      * [Declarative Approach](multi-agent/building-multi-agent-systems/tool-dspy/declarative-approach.md)
+    * [Tool: Langgraph](multi-agent/building-multi-agent-systems/tool-langgraph.md)
