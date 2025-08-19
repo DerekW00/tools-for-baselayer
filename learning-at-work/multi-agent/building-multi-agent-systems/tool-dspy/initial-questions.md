@@ -58,7 +58,7 @@ So DSPy is like a _black-box optimizer_ around the LLM, not just another LLM cal
 Formally:
 
 $$
-\theta^* = \arg\max_{\theta \in \Theta} \ \mathbb{E}{(x,y)\sim D}[R(f_\theta(x), y)]
+\theta^* \;=\; \arg\max_{\theta \in \Theta} \; \mathbb{E}_{(x,y)\sim \mathcal{D}}\!\left[ R\!\big(f_{\theta}(x),\, y\big) \right].
 $$
 
 Where:
