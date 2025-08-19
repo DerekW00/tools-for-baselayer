@@ -37,4 +37,3 @@
 * Robustness vs. simplicity.
 * Communication cost vs. decision quality.
 
-> **What’s next:** See **Practical Examples and Demonstrations** of these architectures in action.
