@@ -71,7 +71,7 @@ Where:
 
 So “optimization” means **searching over prompt space to maximize performance on a metric** — not just rewriting once.
 
-For more math: [some-math.md](../../../../multi-agent/building-multi-agent-systems/tool-dspy/some-math.md "mention")
+For more math: [some-math.md](some-math.md "mention")
 
 ***
 
