@@ -11,7 +11,7 @@ You specify the desired inputs/outputs and (optionally) high-level instructions;
 * Automatic few-shot selection and prompt tuning,
 * Reuse across models/datasets with minimal code changes.
 
-> Core idea: declare **Signatures** and compose **Modules**; let teleprompters optimize the _how_. :contentReference\[oaicite:0]{index=0}
+> <mark style="color:$danger;">**Core idea:**</mark> declare **Signatures** and compose **Modules**; let teleprompters optimize the _how_.&#x20;
 
 ***
 
@@ -32,7 +32,7 @@ You specify the desired inputs/outputs and (optionally) high-level instructions;
 
 ### Signatures: Declaring Inputs/Outputs (+ optional instructions)
 
-A **Signature** is a typed contract for an LM step: field names, which are inputs vs. outputs, and a short docstring as instructions. Fields use `dspy.InputField()` / `dspy.OutputField()` with optional `desc=` text that becomes part of the prompt. :contentReference\[oaicite:1]{index=1}
+A **Signature** is a typed contract for an LM step: field names, which are inputs vs. outputs, and a short docstring as instructions. Fields use `dspy.InputField()` / `dspy.OutputField()` with optional `desc=` text that becomes part of the prompt.&#x20;
 
 ```python
 import dspy
