@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Tools I Use at Work](README.md)
+* [Learning at Work](README.md)
 
 ## multi-agent
 
