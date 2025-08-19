@@ -57,16 +57,21 @@ So DSPy is like a _black-box optimizer_ around the LLM, not just another LLM cal
 
 Formally:
 
-\[ \theta^\* = \arg\max\_{\theta \in \Theta} \ \mathbb{E}_{(x,y)\sim D}\[R(f_\theta(x), y)] ]
+$$
+\theta^* = \arg\max_{\theta \in \Theta} \ \mathbb{E}{(x,y)\sim D}[R(f_\theta(x), y)]
+$$
 
 Where:
 
-* (\theta) = prompt parameters
-* (f\_\theta) = LLM run with those prompts
-* (R) = reward/metric (e.g., exact match)
-* (D) = dataset
+* $$\theta$$ : Prompt Parameters
+* $$f_\theta$$: LLM run with Prompt $$\theta$$
+* $$R$$: Rewards
+* $$D$$: Dataset\
+
 
 So “optimization” means **searching over prompt space to maximize performance on a metric** — not just rewriting once.
+
+For more math: [some-math.md](../../../../multi-agent/building-multi-agent-systems/tool-dspy/some-math.md "mention")
 
 ***
 

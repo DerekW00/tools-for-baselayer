@@ -11,5 +11,6 @@
   * [Building Multi-Agent Systems](learning-at-work/multi-agent/building-multi-agent-systems/README.md)
     * [Tool: DSPy](learning-at-work/multi-agent/building-multi-agent-systems/tool-dspy/README.md)
       * [Initial Questions](learning-at-work/multi-agent/building-multi-agent-systems/tool-dspy/initial-questions.md)
+      * [Some Math](multi-agent/building-multi-agent-systems/tool-dspy/some-math.md)
       * [Declarative Approach](learning-at-work/multi-agent/building-multi-agent-systems/tool-dspy/declarative-approach.md)
     * [Tool: Langgraph](learning-at-work/multi-agent/building-multi-agent-systems/tool-langgraph.md)
