@@ -13,4 +13,5 @@
       * [Initial Questions](learning-at-work/multi-agent/building-multi-agent-systems/tool-dspy/initial-questions.md)
       * [Some Math](multi-agent/building-multi-agent-systems/tool-dspy/some-math.md)
       * [Declarative Approach](learning-at-work/multi-agent/building-multi-agent-systems/tool-dspy/declarative-approach.md)
+      * [DSPy Basic: Signature](multi-agent/building-multi-agent-systems/tool-dspy/dspy-basic-signature.md)
     * [Tool: Langgraph](learning-at-work/multi-agent/building-multi-agent-systems/tool-langgraph.md)
